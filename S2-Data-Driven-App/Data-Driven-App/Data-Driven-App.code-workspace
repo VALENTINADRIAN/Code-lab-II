@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "${workspaceRoot}/../../../../libs/openFrameworks"
+		},
+		{
+			"path": "${workspaceRoot}/../..\\..\\..\\addons\\ofxJSON"
+		},
+		{
+			"path": "${workspaceRoot}/../..\\..\\..\\addons\\ofxJSON"
+		},
+		{
+			"path": "${workspaceRoot}/../..\\..\\..\\addons\\ofxJSON"
+		},
+		{
+			"path": "${workspaceRoot}/../..\\..\\..\\addons\\ofxJSON"
+		},
+		{
+			"path": "${workspaceRoot}/../..\\..\\..\\addons\\ofxJSON"
+		}
+	],
+	"openFrameworksProjectGeneratorVersion": "0.103.0",
+	"settings": {
+		"makefile.configureOnOpen": true
+	}
+}
